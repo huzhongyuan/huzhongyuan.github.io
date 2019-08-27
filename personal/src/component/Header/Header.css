@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1%;
+    height: 6rem;
+    background-color: #55689E;
+    color: white;
+}
+.setting {
+    display: flex;
+    align-items: center;
+}
+.headerTitle {
+    font-size: 2rem;
+}
+.tips {
+    margin-right:2rem;
+    cursor: pointer;
+}
+.person {
+    display: flex;
+    align-items: center;
+}
+.person div {
+    margin-right: 1.5rem;
+}
+.portrait {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background-color: white;
+    color: #55689E;
+    cursor: pointer;
+}
+.name {
+    font-size: 1rem;
+    cursor: pointer;
+}

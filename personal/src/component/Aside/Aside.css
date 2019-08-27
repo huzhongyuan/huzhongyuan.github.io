@@ -1,0 +1,11 @@
+.aside {
+    /* position: absolute;
+    width: 20%;
+    color:red; */
+    position: relative;
+    width: 256px;
+    border-right: 1px solid #e8e8e8;
+}
+.ant-menu-inline, .ant-menu-vertical, .ant-menu-vertical-left {
+    border-right: none;
+}

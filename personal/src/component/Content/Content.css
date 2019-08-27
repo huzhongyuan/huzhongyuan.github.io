@@ -1,0 +1,14 @@
+.content {
+    /* display: grid;
+    grid-template-columns:1fr 1fr;
+    overflow: hidden; */
+    position: absolute;
+    top: 72px;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    display: flex;
+}
+/* .content {
+    display: inline;
+} */
